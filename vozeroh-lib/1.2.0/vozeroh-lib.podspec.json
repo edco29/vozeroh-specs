@@ -1,0 +1,24 @@
+{
+  "name": "vozeroh-lib",
+  "version": "1.2.0",
+  "summary": "this is a internal vozeroh lib.",
+  "description": "this is a internal vozeroh lib and it is just a demo pod",
+  "homepage": "https://github.com/edco29/vozeroh-lib.git",
+  "license": {
+    "type": "Apache",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Edwin Contreras": "edwin_david_29@live.com"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "swift_versions": "5.0",
+  "source": {
+    "git": "https://github.com/edco29/vozeroh-lib.git",
+    "tag": "1.2.0"
+  },
+  "source_files": "vozeroh-lib/vozeroh-lib/**/*.{swift}",
+  "swift_version": "5.0"
+}
